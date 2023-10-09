@@ -21,6 +21,7 @@ redirect_from:
   - Trustworthy AI and Machine Learning.
   - Large Vision-Language Model, LLM Powered Agent, Embodied AI.
   - Augmented/Mixed Reality, Spatial Computing.
+  - Systems for Machine Learning.
 
 <h2 class="col">
 <font color=blue>Education</font>
