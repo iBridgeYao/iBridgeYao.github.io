@@ -14,9 +14,9 @@ redirect_from:
 <font color=blue>About me</font>
 </h2>
 
-- A fourth-year undergraduate at the School of CS at [HUST](http://english.hust.edu.cn/).
+- A fourth-year undergraduate majored in CS at [HUST](http://english.hust.edu.cn/).
 - Currently, I am a research intern at [VLR Group](https://vlrlab.net/), under the supervision of Prof. [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=zh-CN&oi=ao) and my Ph.D. mentor [Dingkang Liang](https://dk-liang.github.io/). My main focus is 3D object detection from point clouds.
-- I am pursuing further opportunities (Ph.D. or MPhil.) in:
+- I am pursuing further research opportunities (Ph.D. or MPhil.) in:
   - 3D Object Detection, Computer Vision.
   - Trustworthy AI and Machine Learning.
   - Large Vision-Language Model, LLM Powered Agent, Embodied AI.
@@ -54,8 +54,6 @@ B.S. in [Huazhong University of Science and Technology](http://english.hust.edu.
 <div><a href="https://vlrlab.net/" style="text-decoration: none;">VLR Group, HUST</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Oct. 2023 - Present </font>
 </div>
-
-
 * Role: Research Intern
 * Mentor: [Dingkang Liang](https://dk-liang.github.io/)
 * Advisor: [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=zh-CN&oi=ao)
@@ -68,8 +66,6 @@ B.S. in [Huazhong University of Science and Technology](http://english.hust.edu.
 <div><a href="https://vlrlab.net/" style="text-decoration: none;">VLR Group, HUST</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Mar. 2023 - Sept. 2023 </font>
 </div>
-
-
 * Role: Research Intern
 * Mentor: [Dingkang Liang](https://dk-liang.github.io/)
 * Advisor: [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=zh-CN&oi=ao)
@@ -88,8 +84,6 @@ B.S. in [Huazhong University of Science and Technology](http://english.hust.edu.
 <div><a href="https://vlrlab.net/" style="text-decoration: none;">VLR Group, HUST</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Nov. 2022 - Jan. 2023 </font>
 </div>
-
-
 * Role: Research Intern
 * Mentor: [Dingkang Liang](https://dk-liang.github.io/), [Jinghua Hou](https://scholar.google.com/citations?user=aoqtBAsAAAAJ)
 * Advisor: [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=zh-CN&oi=ao)
