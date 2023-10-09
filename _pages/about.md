@@ -48,7 +48,7 @@ B.S. in [Huazhong University of Science and Technology](http://english.hust.edu.
 </h2>
 
 <div class="section-text col-right">
-<h3><a href="#" style="text-decoration: none;"><span class="emph">Efficient Fine-Tuning for Large Models</span> </a></h3>
+<h3><a href="#" style="text-decoration: none;"><span class="emph">Parameter-efficient Fine-Tuning for Large Models</span> </a></h3>
 </div>
 <div><a href="https://vlrlab.net/" style="text-decoration: none;">VLR Group, HUST</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;Oct. 2023 - Present </font>
@@ -80,10 +80,10 @@ B.S. in [Huazhong University of Science and Technology](http://english.hust.edu.
 <div class="section-text col-right">
 <h3><a href="#" style="text-decoration: none;"><span class="emph">Multi-frame Simulation for 3D Object Detection</span> </a></h3>
 </div>
-
 <div><a href="https://vlrlab.net/" style="text-decoration: none;">VLR Group, HUST</a>
 <font size ="2"> &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; Nov. 2022 - Jan. 2023 </font>
 </div>
+
 * Role: Research Intern
 * Mentor: [Dingkang Liang](https://dk-liang.github.io/), [Jinghua Hou](https://scholar.google.com/citations?user=aoqtBAsAAAAJ)
 * Advisor: [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=zh-CN&oi=ao)
