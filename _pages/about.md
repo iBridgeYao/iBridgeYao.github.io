@@ -27,7 +27,7 @@ redirect_from:
 <font color=blue>Education</font>
 </h2>
 - B.S. in [Huazhong University of Science and Technology](http://english.hust.edu.cn/) (HUST), Wuhan, China, 2024 (expected).
-- Summer School in [National University of Singapore](https://www.nus.edu.sg/), Singapore, July 2023
+- Summer Workshop in [National University of Singapore](https://www.nus.edu.sg/), Singapore, July 2023
 <!-- * B.S. in GitHub, GitHub University, 2012 -->
 <!-- * M.S. in Jekyll, GitHub University, 2014 -->
 <!-- * Ph.D. in Version Control Theory, GitHub University, 2018 (expected) -->
