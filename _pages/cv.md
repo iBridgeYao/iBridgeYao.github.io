@@ -10,18 +10,8 @@ redirect_from:
 {% include base_path %}
 
 <h1 class="col">
-<font color=red>Attention!! Website Constructing, resume is not complete</font>
+<font color=red>Attention!! Website is Under Constructing, this page is not completed. For more imformation about me, please refer to <a href="https://ibridgeyao.github.io/">My Homepage</a>)</font>
 </h1>
----
-
-
-Education
-======
-* B.S. in WuHan, [Huazhong University of Science and Technology](http://english.hust.edu.cn/), 2024(expected)
-  * Want to pursure PhD Degree in AI Compiler
-  <!-- * B.S. in GitHub, GitHub University, 2012 -->
-  <!-- * M.S. in Jekyll, GitHub University, 2014 -->
-  <!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
 
 <!-- >###Markdown 字体颜色改变
 >
