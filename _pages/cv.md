@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <h1 class="col">
-<font color=red>Attention!! Website is Under Constructing, this page is not completed. For more imformation about me, please refer to <a href="https://ibridgeyao.github.io/">My Homepage</a></font>
+<font color=red>Attention!! Website is Under Constructing, this page is not completed. For more imformation about me, please refer to <a href="https://ibridgeyao.github.io/">My Homepage</a>.</font>
 </h1>
 
 <!-- >###Markdown 字体颜色改变
