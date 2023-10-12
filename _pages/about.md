@@ -16,7 +16,7 @@ redirect_from:
 
 - A fourth-year undergraduate majored in CS at [HUST](http://english.hust.edu.cn/).
 - Currently, I am a research intern at [VLR Group](https://vlrlab.net/), under the supervision of Prof. [Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=zh-CN&oi=ao) and my Ph.D. mentor [Dingkang Liang](https://dk-liang.github.io/). My main focus is 3D object detection from point clouds.
-- I am pursuing further research opportunities (Ph.D. or MPhil.) in:
+- I am pursuing further research opportunities (Ph.D. or MPhil.) in (not listed in priority order):
   - 2D/3D Computer Vision.
   - Trustworthy AI and Machine Learning.
   - Systems for Machine Learning, High-Performance Computing for AI.
